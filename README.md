@@ -24,12 +24,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configuring SLA's (service level agreements)
 - Configuring Help Topics
 
-<h2>Configuration Steps</h2>
+<h2>Role Configuration Steps</h2>
 <p> Log in as Admin user to http://localhost/osTicket/scp then click on Admin Panel in the top right
   </p>
 <br />
 
-  <img src="https://i.imgur.com/mluhgrz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/mluhgrz.png" height="80%" width="80%" alt="configure roles"/>
 
 </p>
 <p>
@@ -37,21 +37,39 @@ Select Agents
 
 </p>
 <br />
-<img src="https://i.imgur.com/zk9SdNy.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zk9SdNy.png)" height="80%" width="80%" alt="agents"/>
 </p>
 <p>
 Select Roles
-
-<p>
-<img src="[https://i.imgur.com/DJmEXEB.png](https://i.imgur.com/zk9SdNy.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  
 </p>
 <br />
-
+<img src="https://i.imgur.com/boG2lTa.png" height="80%" width="80%" alt="roles"/>
+</p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+select "Add New Role"
+  
+ </p>
+<br />
+<img src="https://i.imgur.com/thixg4D.png" height="80%" width="80%" alt="roles"/> 
+ </p>
+<p>
+Create User named "Supreme Admin" and select Add Role
+</p>
+<br />
+  <img src="https://i.imgur.com/YbFWWgv.png" height="80%" width="80%" alt="supreme admin"/> 
+</p>
+<br />  
+In this menu area you can allow different permissions for agents. It can range from View only (agent can only view but will not be able to make any changes), to ALL access (agent will be able to assign tickets, change SLA's levels, create, and delete tickets)
+</p>
+<img src="https://i.imgur.com/PBfCcIY.png" height="80%" width="80%" alt="none"/>
+</p>
+<br />
+<h2>Department Configuration Steps</h2>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="none"/>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="none"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
