@@ -29,9 +29,12 @@ This tutorial outlines the post-install configuration of the open-source help de
   </p>
 <br />
 
-![1st](https://github.com/user-attachments/assets/5ad48110-ef0b-4a00-8a42-769f6ee1c50a)
+![1st](https://github.com/user-attachments/assets/8f9b90f7-feaf-4712-9db1-d6bd3834f110)
 
-<img src="https://i.imgur.com/d1WaVae.png" height="80%" width="80%" alt="osticket roles"/>
+
+
+![2nd](https://github.com/user-attachments/assets/bd18738b-d504-45b2-8270-54d0f8043923)
+
 </p>
 <p>
 Each of the roles allow for differing permissions for the agents that we will create. It ranges from View only, which essentially means the agent can only the view ticket and nothing else, all the way to All access, which is essentially unlimited access and can allow an agent to assign tickets to others, change SLA levels, create, close, delete tickets and the like. If we click on Departments next to the Roles tab, then Add new department we get this.
