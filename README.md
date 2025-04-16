@@ -52,7 +52,9 @@ This section allows us to create different departments within the company, set d
 <br />
 
 <p>
-  <img src="https://i.imgur.com/Mwj9raX.png" height="80%" width="80%" alt="osticket teams"/>
+  
+  ![4th](https://github.com/user-attachments/assets/082005d6-8d98-4ef5-a2e1-84cd387f58ae)
+
 </p>
 
 <p>
