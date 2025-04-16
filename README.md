@@ -13,7 +13,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Internet Information Services (IIS)
 <h2>Operating Systems Used </h2>
 
-- Windows 10 Pro </b> (21H2) at Least 2vCPU'S and 8 GB  RAM
+- Windows 10 Pro </b> (22H2) at Least 2vCPUs and 8 GB RAM
 
 <h2>Post-Install Configuration Objectives</h2>
 
@@ -25,11 +25,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configuring Help Topics
 
 <h2>Role Configuration Steps</h2>
-<p> Log in as Admin user to http://localhost/osTicket/scp then click on Admin Panel in the top right
+<p> Log in as Admin user to http://localhost/osTicket/scp then click on Admin Panel in the top right/ Then hover over Agents,to bring up Roles and select Roles
   </p>
 <br />
 
-  <img src="https://i.imgur.com/mluhgrz.png" height="80%" width="80%" alt="configure roles"/>
+![1st](https://github.com/user-attachments/assets/5ad48110-ef0b-4a00-8a42-769f6ee1c50a)
+
 
 </p>
 <p>
