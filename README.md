@@ -42,7 +42,9 @@ Each of the roles allow for differing permissions for the agents that we will cr
 <br />
 
 <p>
-<img src="https://i.imgur.com/8dziWDH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![3rd](https://github.com/user-attachments/assets/2bf5121d-3876-496b-9061-02dcfd4bc15d)
+
 </p>
 <p>
 This section allows us to create different departments within the company, set different SLA schedules, allow tickets to be assigned to certain departments and send alerts and autoresponses. Next, we can click on the Teams tab and then Add New team.
