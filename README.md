@@ -64,7 +64,9 @@ In addition, we can allow users to create tickets without having to register an 
 </p>
 <br />
 <p>
-  <img src="https://i.imgur.com/bMlmcWt.png" height="80%" width="80%" alt="any user can create ticket"/>
+
+  ![5th](https://github.com/user-attachments/assets/0f32b5ab-d86c-44f4-b9f7-92d4c9e2a61c)
+
 </p>
 
 <p>
@@ -72,7 +74,9 @@ Now can create some agents to work our tickets. Click on Agents (big tab) -> Add
 </p>
 <br />
 <p>
-  <img src="https://i.imgur.com/6DRAyJu.png" height="80%" width="80%" alt="creating new agents"/>
+
+  ![6](https://github.com/user-attachments/assets/b98f6d46-69fe-4d56-af0a-97a6420e2c70)
+
 </p>
 
 <p>
