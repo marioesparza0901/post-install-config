@@ -49,7 +49,8 @@ Each role allows for different permissions for the agents being created. They ra
 <h2></h2>
 Selecting "Departments" next to the Roles tab, then Add new department, will bring up the following menu. This section allows us to create different departments within the company, set different SLA schedules, allow tickets to be assigned to certain departments, and send alerts and autoresponses. 
 
-
+<p>
+  
 ![3rd](https://github.com/user-attachments/assets/2bf5121d-3876-496b-9061-02dcfd4bc15d)
 <h2></h2>
 </p>
@@ -61,18 +62,14 @@ Selecting "Departments" next to the Roles tab, then Add new department, will bri
 <p>
 We can create teams within departments to help categorize the different roles of our agents. For example, we can create an Online Banking team with the SysAdmins department. Then, we may also add Members within the team to respond to tickets. Although we can only do this once we've created the agents.
  
-  We can also allow users to create tickets without having to register for an account for our help desk. Click on Settings -> Users -> Uncheck Require registration and login to create tickets option. This will make it easier for users to get IT support.
+  We can also allow users to create tickets without having to register for an account for our help desk. Click on Settings/ Users/ Uncheck Require registration and login to create tickets option. This will make it easier for users to get IT support.
   
   ![4th](https://github.com/user-attachments/assets/082005d6-8d98-4ef5-a2e1-84cd387f58ae)
 <h2></h2>
 </p>
 
 <p>
-Now can create some agents to work our tickets. Click on Agents (big tab) -> Add New Agent.
-
-</p>
-<br />
-<p>
+Now we can create some agents to work our tickets. Click on Agents (big tab) -> Add New Agent.
 
   ![5th](https://github.com/user-attachments/assets/0f32b5ab-d86c-44f4-b9f7-92d4c9e2a61c)
 
@@ -80,26 +77,24 @@ Now can create some agents to work our tickets. Click on Agents (big tab) -> Add
 <h2></h2>
 <p>
 We can set an agent's name, password, email address, access, permissions, and which team they'll be on. For example, we can create an agent named Jane Doe and assign her to the SysAdmins department and give her All Access. Setting the access will also set the preconfigured permissions, but you can also fine-tune certain permissions. We can also create another user named John Doe and assign him to the Support department and provide him with Expanded Access.
-</p>
-<br />
-<p>
 
   ![6](https://github.com/user-attachments/assets/b98f6d46-69fe-4d56-af0a-97a6420e2c70)
-
+<h2></h2>
 </p>
 
 <p>
 
 </p>
 <br />
+ To assign each agent to certain teams so that they can assign tickets to other agents from other teams if needed. Simply click on Teams and add each agent to their required team. In this instance, we'll assign Jane Doe to Online Banking and John Doe to Support.
 <p>
 <img src="https://i.imgur.com/b5WfIq1.png" height="80%" width="80%" alt="setting agents access"/>
 <img src="https://i.imgur.com/dfg5fLP.png" height="80%" width="80%" alt="john and jane doe agents"/>
-
+<h2></h2>
 </p>
 
 <p>
-It will be also a good idea to assign each agent to certain teams so that they can assign tickets to other agents from other teams if needed. Simply click on Teams and add each agent to their required team. In this instance, we'll assign Jane Doe to Online Banking and John Doe to Support.
+
 
 We can also create users (customers) that need support. To do that, click on the Agent Panel at the top right then click on Users then Add User. In this example, we can create 2 users named Karen and Ken.
 </p>
@@ -107,7 +102,7 @@ We can also create users (customers) that need support. To do that, click on the
 <p>
   <img src="https://i.imgur.com/kKMGzST.png" height="80%" width="80%" alt="creating users"/>
 </p>
-
+<h2></h2>
 <p>
 It's also important that our agents can work through the tickets according to how important or urgent it is based on business impact. We can do this by creating differing SLA (service level agreement) levels.
 </p>
