@@ -48,9 +48,10 @@ Each role allows for different permissions for the agents being created. They ra
 ![2nd](https://github.com/user-attachments/assets/bd18738b-d504-45b2-8270-54d0f8043923)
 <h2></h2>
 Clicking on Departments next to the Roles tab, then Add new department, will bring up the following menu. This section allows us to create different departments within the company, set different SLA schedules, allow tickets to be assigned to certain departments, and send alerts and autoresponses. 
-<h2></h2>  
-![3rd](https://github.com/user-attachments/assets/2bf5121d-3876-496b-9061-02dcfd4bc15d)
 
+
+![3rd](https://github.com/user-attachments/assets/2bf5121d-3876-496b-9061-02dcfd4bc15d)
+<h2></h2>
 </p>
 <p>
 
