@@ -118,7 +118,7 @@ It's also important that our agents can work through the tickets according to ho
 
 <p>
 
-
+<h2></h2>
 Finally, we can also create different help topics to allow tickets to be sent in the right category for our agents to work through. In reality, we will likely have to reassign the ticket to a more appropriate help topic, as users don't usually choose the best one. But it's good to have options! Click on the Admin Panel at the top, then Manage, and then Add New Help Topic.
 </p>
 <br />
