@@ -105,6 +105,8 @@ We can also create users (customers) that need support. To do that, click on the
 <h2></h2>
 <p>
 It's also important that our agents can work through the tickets according to how important or urgent it is based on business impact. We can do this by creating differing SLA (service level agreement) levels.
+  
+  Click on Add New SLA plan, we can add in the details for our SLAs based on severity (Sev-A being most urgent to Sev-C being least urgent). We want to set it like this <b>Sev-A</b> (grace period: 1hr, schedule: 24/7), <b>Sev-B</b> (grace period: 4hr, schedule: 24/7), <b>Sev-C</b> (grace period: 8hr, schedule: Business hours). 
 </p>
 <br />
 <p>
@@ -112,7 +114,7 @@ It's also important that our agents can work through the tickets according to ho
 </p>
 
 <p>
-Click on Add New SLA plan and we can add in the details for our SLAs based on severity (Sev-A being most urgent to Sev-C being least urgent). We want to set it like this <b>Sev-A</b> (grace period: 1hr, schedule: 24x7), <b>Sev-B</b> (grace period: 4hr, schedule: 24x7), <b>Sev-C</b> (grace period: 8hr, schedule: during business hours). 
+
 
 Finally, we can also create different help topics to allow tickets to be sent in the right category for our agents to work through. In reality, we will likely have to reassign the ticket to a more appropriate help topic as users don't usually choose the best one. But it's good to have options! Click on the Admin Panel at the top then Manage and then Add New Help Topic.
 </p>
