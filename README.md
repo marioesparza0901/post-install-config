@@ -21,8 +21,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Configuring Agents "employees" and Users "customers"
   
-- Configuring SLA's (service level agreements)
-- Configuring Help Topics
+- Configuring SLA's (service level agreements)<br />
+  
+   <b>Sev-A</b> (Grace Period) 1hr/ schedule 24/7
+  
+   <b>Sev-B</b> (Grace Period) 4hr/ schedule 24/7
+  
+   <b>Sev-C</b> (Grace Period) 8hr/ schedule Business Hours Only
+  
+- Configuring Help Topic/s
 
 <h2>Role Configuration Steps</h2>
 <p> Log in as Admin user to http://localhost/osTicket/scp then click on Admin Panel in the top right/ Then hover over Agents,to bring up Roles and select Roles
