@@ -119,7 +119,7 @@ It's also important that our agents can work through the tickets according to ho
 <p>
 
 <h2></h2>
-Finally, we can also create different help topics to allow tickets to be sent in the right category for our agents to work through. In reality, we will likely have to reassign the ticket to a more appropriate help topic, as users don't usually choose the best one. But it's good to have options! Click on the Admin Panel at the top, then Manage, and then Add New Help Topic.
+Finally, we can also create different help topics to allow tickets to be sent in the right category for our agents to work through. In reality, we will likely have to reassign the ticket to a more appropriate help topic, as users don't usually choose the best one. But it's good to have options! 
 </p>
 <br />
 
@@ -127,8 +127,8 @@ Finally, we can also create different help topics to allow tickets to be sent in
 <img src="https://i.imgur.com/3cRwV9i.png" height="80%" width"80%" alt="create help topics"/>
 </p>
 <p>
-We can now create different help topics and choose a top-level topic, like Report a Problem, to create a more specific help topic within this area, like an Access Issue.
+We can now create different help topics and choose a top-level topic, like Report a Problem, to create a more specific help topic within this area, like an Access Issue. By clicking on the Admin Panel at the top, then Manage, and then Add New Help Topic
 </p>
 <br />
-
+<b>Thank you for following along!</b>
 </p>
