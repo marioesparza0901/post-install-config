@@ -69,7 +69,7 @@ We can create teams within departments to help categorize the different roles of
 </p>
 
 <p>
-Now we can create some agents to work on our tickets. Click on Agents (big tab) -> Add New Agent.
+Now we can create some agents to work on our tickets. Click on Agents (big tab) / Add New Agent.
 
   ![5th](https://github.com/user-attachments/assets/0f32b5ab-d86c-44f4-b9f7-92d4c9e2a61c)
 
@@ -86,17 +86,20 @@ We can set an agent's name, password, email address, access, permissions, and wh
 
 </p>
 <br />
- To assign each agent to certain teams so that they can assign tickets to other agents from other teams if needed. Simply click on Teams and add each agent to their required team. In this instance, we'll assign Jane Doe to Online Banking and John Doe to Support.
+ To assign each agent to specific teams to allow them to assign tickets to other agents from other teams if needed. Simply click on Teams and add each agent to their required team. In this instance, we'll assign Jane Doe to Online Banking and John Doe to Support.
 <p>
 <img src="https://i.imgur.com/b5WfIq1.png" height="80%" width="80%" alt="setting agents access"/>
 <img src="https://i.imgur.com/dfg5fLP.png" height="80%" width="80%" alt="john and jane doe agents"/>
+  
 <h2></h2>
+
 </p>
 
 <p>
 
 
-We can also create users (customers) that need support. To do that, click on the Agent Panel at the top right then click on Users then Add User. In this example, we can create 2 users named Karen and Ken.
+We can also create users (customers) who need support. To do that, click on the Agent Panel at the top right, then click on Users, then Add User. In this example, we can create 2 users named Karen and Ken.
+
 </p>
 <br />
 <p>
@@ -114,9 +117,9 @@ It's also important that our agents can work through the tickets according to ho
 </p>
 
 <p>
+h2></<h2>
 
-
-Finally, we can also create different help topics to allow tickets to be sent in the right category for our agents to work through. In reality, we will likely have to reassign the ticket to a more appropriate help topic as users don't usually choose the best one. But it's good to have options! Click on the Admin Panel at the top then Manage and then Add New Help Topic.
+Finally, we can also create different help topics to allow tickets to be sent in the right category for our agents to work through. In reality, we will likely have to reassign the ticket to a more appropriate help topic, as users don't usually choose the best one. But it's good to have options! Click on the Admin Panel at the top, then Manage, and then Add New Help Topic.
 </p>
 <br />
 
@@ -124,7 +127,7 @@ Finally, we can also create different help topics to allow tickets to be sent in
 <img src="https://i.imgur.com/3cRwV9i.png" height="80%" width"80%" alt="create help topics"/>
 </p>
 <p>
-We can now create different help topics and choose a Top level topic, like Report a Problem, to create a more specific help topic within this area like Access Issue.
+We can now create different help topics and choose a top-level topic, like Report a Problem, to create a more specific help topic within this area, like an Access Issue.
 </p>
 <br />
 
