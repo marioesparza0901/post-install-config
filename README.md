@@ -59,15 +59,17 @@ Selecting "Departments" next to the Roles tab, then Add new department, will bri
 <br />
 
 <p>
-We can create teams within departments to help categorise different roles of our agents. For example, we can create an Online Banking team with the SysAdmins department. Then, we may also add Members within the team to respond to tickets. Although, we can only do this once we've created the agents.
+We can create teams within departments to help categorize the different roles of our agents. For example, we can create an Online Banking team with the SysAdmins department. Then, we may also add Members within the team to respond to tickets. Although we can only do this once we've created the agents.
+ 
+  We can also allow users to create tickets without having to register for an account for our help desk. Click on Settings -> Users -> Uncheck Require registration and login to create tickets option. This will make it easier for users to get IT support.
   
   ![4th](https://github.com/user-attachments/assets/082005d6-8d98-4ef5-a2e1-84cd387f58ae)
-
+<h2></h2>
 </p>
 
 <p>
 
-In addition, we can allow users to create tickets without having to register an account for our help desk. Click on Settings -> Users -> Uncheck Require registration and login to create tickets option. This will make it easier for users to get IT support.
+
 </p>
 <br />
 <p>
