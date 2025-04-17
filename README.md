@@ -69,14 +69,14 @@ We can create teams within departments to help categorize the different roles of
 </p>
 
 <p>
-Now we can create some agents to work our tickets. Click on Agents (big tab) -> Add New Agent.
+Now we can create some agents to work on our tickets. Click on Agents (big tab) -> Add New Agent.
 
   ![5th](https://github.com/user-attachments/assets/0f32b5ab-d86c-44f4-b9f7-92d4c9e2a61c)
 
 </p>
 <h2></h2>
 <p>
-We can set an agent's name, password, email address, access, permissions, and which team they'll be on. For example, we can create an agent named Jane Doe and assign her to the SysAdmins department and give her All Access. Setting the access will also set the preconfigured permissions, but you can also fine-tune certain permissions. We can also create another user named John Doe and assign him to the Support department and provide him with Expanded Access.
+We can set an agent's name, password, email address, access, permissions, and which team they'll be on. For example, we can create an agent named Jane Doe and assign her to the SysAdmins department and give her All Access. We can also create another user named John Doe and assign him to the Support department and provide him with Expanded Access. Setting the access will also set the preconfigured permissions, but you can also fine-tune certain permissions. 
 
   ![6](https://github.com/user-attachments/assets/b98f6d46-69fe-4d56-af0a-97a6420e2c70)
 <h2></h2>
